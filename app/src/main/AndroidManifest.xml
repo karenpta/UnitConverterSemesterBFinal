@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.unitconverter">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NewTheme">
+        <activity
+            android:name=".PastConversationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Conversions"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".con_storage"
+            android:exported="true" />
+        <activity
+            android:name=".con_energy"
+            android:exported="true" />
+        <activity
+            android:name=".con_frequency"
+            android:exported="true" />
+        <activity
+            android:name=".con_pressure"
+            android:exported="true" />
+        <activity
+            android:name=".con_area"
+            android:exported="true" />
+        <activity
+            android:name=".con_fuel"
+            android:exported="true" />
+        <activity
+            android:name=".con_time"
+            android:exported="true" />
+        <activity
+            android:name=".con_volume"
+            android:exported="true" />
+        <activity
+            android:name=".con_speed"
+            android:exported="true" />
+        <activity
+            android:name=".con_length"
+            android:exported="true" />
+        <activity
+            android:name=".con_mass"
+            android:exported="true" />
+        <activity
+            android:name=".con_temperature"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

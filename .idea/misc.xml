@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_area.xml" value="0.264" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_energy.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_frequency.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_fuel.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_length.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_mass.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_pressure.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_speed.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_storage.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_temperature.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_time.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_con_volume.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_conversions.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_full_image.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/activity_past_conversation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/image_item.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/screenshot.xml" value="0.23854166666666668" />
+        <entry key="..\:/Work Online/UnitConverter-master/app/src/main/res/layout/screenshot_item.xml" value="0.253125" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/drawable/input.xml" value="0.3026041666666667" />
+        <entry key="app/src/main/res/drawable/tab_color.xml" value="0.16770833333333332" />
+        <entry key="app/src/main/res/layout/activity_con_area.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_con_energy.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_con_frequency.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_con_fuel.xml" value="0.11367753623188406" />
+        <entry key="app/src/main/res/layout/activity_con_length.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_con_mass.xml" value="0.11367753623188406" />
+        <entry key="app/src/main/res/layout/activity_con_pressure.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_con_speed.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_con_storage.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_con_temperature.xml" value="0.1393110435663627" />
+        <entry key="app/src/main/res/layout/activity_con_time.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/activity_con_volume.xml" value="0.11367753623188406" />
+        <entry key="app/src/main/res/layout/activity_conversions.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_full_image.xml" value="0.24912280701754386" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/image_item.xml" value="0.24912280701754386" />
+        <entry key="app/src/main/res/layout/screenshot.xml" value="0.1412280701754386" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

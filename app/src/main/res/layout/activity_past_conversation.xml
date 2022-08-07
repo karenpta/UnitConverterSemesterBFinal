@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PastConversationActivity">
+
+    <LinearLayout
+        android:id="@+id/bar"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_alignParentTop="true"
+        android:gravity="center_vertical"
+        android:layout_height="50dp">
+
+        <ImageButton
+            android:id="@+id/backBtn"
+            android:src="@drawable/ic_backarrow"
+            android:layout_margin="15dp"
+            android:background="@android:color/transparent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></ImageButton>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_margin="10dp"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:text="Conversion Screenshots"
+            android:layout_height="wrap_content"></TextView>
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/passConvRecycler"
+        android:layout_below="@id/bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>

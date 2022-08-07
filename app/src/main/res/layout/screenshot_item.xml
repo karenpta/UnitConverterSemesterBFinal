@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="8dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+
+            android:id="@+id/item_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></ImageView>
+
+        <ImageButton
+            android:id="@+id/deleteBtn_item"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:src="@android:drawable/ic_delete"
+            android:background="@android:color/transparent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></ImageButton>
+
+        <TextView
+            android:id="@+id/time_text_item"
+            android:layout_width="match_parent"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/black"
+            android:textSize="12dp"
+            android:layout_height="wrap_content"></TextView>
+
+    </RelativeLayout>
+
+
+
+</androidx.cardview.widget.CardView>
